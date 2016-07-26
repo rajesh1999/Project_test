@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 My name is raje
 I am a good at devops
+=======
+My name is rajesh
+>>>>>>> master
